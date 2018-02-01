@@ -1,0 +1,29 @@
+{
+  "mainFile": "openvpn-pygtktray.py", 
+  "use-tabs": false, 
+  "venv": "", 
+  "relatedProjects": [], 
+  "name": "openvpn-gtktray", 
+  "license": "MIT License", 
+  "url": "", 
+  "pythonPath": "python2", 
+  "preExecScript": "", 
+  "additional_builtins": [], 
+  "programParams": "", 
+  "indentation": 4, 
+  "PYTHONPATH": "", 
+  "supported-extensions": [
+    ".py", 
+    ".html", 
+    ".jpg", 
+    ".png", 
+    ".ui", 
+    ".css", 
+    ".json", 
+    ".js", 
+    ".ini"
+  ], 
+  "project-type": "", 
+  "postExecScript": "", 
+  "description": "openvpn gtk tray app launcher"
+}
